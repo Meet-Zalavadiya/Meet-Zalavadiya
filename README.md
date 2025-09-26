@@ -17,6 +17,6 @@
 
 ---
 ### Projects of Interest:
-- [DailyHunt](https://github.com/Meet-Zalavadiya/DailyHunt_Database)  :ER diagram for DailyHunt, Normalized it to BCNF, and DDL scripts to create tables and constraints.
+- [DailyHunt](https://github.com/Meet-Zalavadiya/DailyHunt-DBMS)  :ER diagram for DailyHunt, Normalized it to BCNF, and DDL scripts to create tables and constraints.
 - [WanderWays](https://github.com/Meet-Zalavadiya/WanderWays) : Travel planning web app , From searching and booking trips to creating your own custom itineraries, WanderWays has got it all!
 - [Eventify](https://github.com/Meet-Zalavadiya/EVENTIFY_UX) : Event management application , UX design process and artifacts including low fidelity wireframes, high fidelity designs, and an interactive prototype
